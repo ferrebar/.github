@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ferrebar-logo.png" alt="Ferrebar logo" width="200">
+  <img src="https://raw.githubusercontent.com/ferrebar/.github/main/profile/ferrebar-logo.png" alt="Ferrebar logo" width="200">
 </p>
 
 <h1 align="center">Ferrebar</h1>
