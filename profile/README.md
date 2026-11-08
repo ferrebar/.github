@@ -45,8 +45,8 @@ game owns its loop, its threads, and its data.
 | Graphics | [`ferron-lang/vulkan`](https://github.com/ferron-lang) | Vulkan 1.4 | in Ferron's org |
 | Graphics | `vkx` | staging uploads, sub-allocators, descriptor pools, pipeline presets | planned |
 | Graphics | `vma`, `shaderc` | VMA, shaderc | planned |
-| UI | `imgui` | Dear ImGui (docking) via cimgui | planned |
-| Text | `freetype` | FreeType | planned |
+| UI | `ui` | our own UI in pure Ferron: draw list, Vulkan renderer, text, layout, widgets | planned |
+| Text | [`freetype`](https://github.com/ferrebar/freetype) | FreeType 2 | **v0.1.0** |
 | Assets | `gltf`, `ktx` | glTF 2.0 in pure Ferron, libktx | planned |
 | Physics | `box2d`, `jolt` | Box2D v3, Jolt via a C wrapper | planned |
 | Audio | `miniaudio` | miniaudio | planned |
